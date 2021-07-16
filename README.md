@@ -5,3 +5,5 @@ Hi <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wa
 Life is a fucking movie. 😈 😈 😈 😈 😈 😈
 
 人生如戏。
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=mapleqin&theme=github)
